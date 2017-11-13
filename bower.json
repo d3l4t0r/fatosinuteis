@@ -1,0 +1,31 @@
+{
+  "name": "fatosinuteis",
+  "homepage": "https://github.com/d3l4t0r/fatosinuteis",
+  "authors": [
+    "d3l4t0r <domingo_sombrio@yahoo.com>"
+  ],
+  "description": "Fatos Inuteis é um site para passar o tempo e dar algumas risadas",
+  "main": "",
+  "keywords": [
+    "fatos",
+    "inuteis",
+    "jogo",
+    "passa",
+    "tempo",
+    "rir",
+    "obvio",
+    "risada",
+    "passatempo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

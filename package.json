@@ -1,0 +1,19 @@
+{
+  "name": "fatosinuteis",
+  "version": "1.0.0",
+  "description": "Fatos Inuteis é um \"jogo\" para passar tempo lendo coisas inuteis e óbvias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3l4t0r/fatosinuteis.git"
+  },
+  "author": "d3l4t0r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d3l4t0r/fatosinuteis/issues"
+  },
+  "homepage": "https://github.com/d3l4t0r/fatosinuteis#readme"
+}
